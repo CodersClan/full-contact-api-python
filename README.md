@@ -23,4 +23,6 @@ Extracted fields include:
 8. Facebook account link
 
 If you'd like to get a script of your own, our coder community at [CodersClan](https://www.codersclan.net/?utm_source=github_full-contact-api-python) will be happy to get it done for you.
+
+
 <a href="http://codersclan.net/?utm_source=github_full-contact-api-python&utm_medium=logo"><img src="https://www.codersclan.net/img/CodersClan-navbar-black.png"></a>
