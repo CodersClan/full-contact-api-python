@@ -11,4 +11,15 @@ Created by [VaibhavMule](https://www.codersclan.net/profile/VaibhavMule?utm_sour
 3. Update the API key on get.py on line 14.
 4. Run the script simply by typing in: python readfile.py
 
+Extracted fields include:
+
+1. Name
+2. Role
+3. Company
+4. Location
+5. Gender
+6. LinkedIn account link
+7. Twitter account link
+8. Facebook account link
+
 If you'd like to get a script of your own, our coder community at [CodersClan](https://www.codersclan.net/?utm_source=github_full-contact-api-python) will be happy to get it done for you.
