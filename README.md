@@ -11,4 +11,4 @@ Created by [VaibhavMule](https://www.codersclan.net/profile/VaibhavMule?utm_sour
 3. Update the API key on get.py on line 14.
 4. Run the script simply by typing in: python readfile.py
 
-If you'd like to get a script of your own, our coders community at [CodersClan](https://www.codersclan.net/?utm_source=github_full-contact-api-python) will be happy to get it done for you.
+If you'd like to get a script of your own, our coder community at [CodersClan](https://www.codersclan.net/?utm_source=github_full-contact-api-python) will be happy to get it done for you.
