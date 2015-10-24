@@ -4,7 +4,7 @@ This is perfect for qualifying a list of marketing leads or learning more about 
 
 Created by [VaibhavMule](https://www.codersclan.net/profile/VaibhavMule?utm_source=github_full-contact-api-python) of [CodersClan](https://www.codersclan.net/?utm_source=github_full-contact-api-python).
 
-*How to Run*
+## How to Run ##
 
 1. Add your list of emails to inspect to sample.txt.
 2. Get your API key from [Full-Contact-API website](https://www.fullcontact.com/developer/).
